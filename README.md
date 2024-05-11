@@ -24,7 +24,7 @@ An aspiring Software Engineer!!!
  ### IDE and Tools I Use
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>  <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/><img height="50" src="https://img.icons8.com/officel/480/null/java-eclipse.png"/> <img height="50" src="https://img.icons8.com/color/480/null/notion--v1.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png"/>  
 
-![Radhika's GitHub stats](https://github-readme-stats.vercel.app/api?username=nisharadhika&theme=algolia_icons=true)
+![Radhika's GitHub stats](https://github-readme-stats.vercel.app/api?username=nisharadhika&theme=dark&show_icons=true)
 
 [![Radhika's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nisharadhika&bg_color=0d0d0d&color=f2edf2&line=3ea22a&point=f8f7f7&area=true&hide_border=true)](https://github.com/nisharadhika/github-readme-activity-graph)
 
